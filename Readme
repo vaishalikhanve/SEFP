@@ -1,0 +1,15 @@
+problem:1.Unsecure transfere of funds(any one in between can take away donation).
+        2.People don't know what to donate and where to donate(location).
+        3.People may give their donation to unsecured organization .
+
+Solutions:
+      1.LIst of requirements from victims with their exact location and contact info ,so that single person or some group of person can send 
+      via transportation agency.
+      2.List of trusted organisation (actually working for victims)
+      3.People can not only donate funds but can donate spare goods in their home(utensil,food,clothes,buckets etc) .
+
+Future work:
+    1.Will be including organization to take care of transfer goods from helpers to victims.
+    2.Let helpers know if their help reached safely.
+    3.will be keeping record of helpers also .
+    4.will be providing communication interface between victims ,organization and helper(like text messaging through this app).
